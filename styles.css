@@ -22,10 +22,6 @@ nav ul {
     justify-content: center;
 }
 
-nav ul li {
-    margin: 0 15px;
-}
-
 nav ul li a {
     color: white;
     font-weight: bold;
@@ -38,6 +34,10 @@ nav ul li a {
 nav ul li a:hover {
     color: black; 
     background-color: white;
+}
+
+nav ul li {
+    margin: 0 15px;
 }
 
 div {
